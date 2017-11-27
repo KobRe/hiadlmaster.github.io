@@ -34,4 +34,17 @@ tr { font-size: 1.7em; }
 	margin-left: 1em;
 }
 
+nav {
+	background-color: Aquamarine;
+}
+
+nav li {
+	display: inline;
+}
+
+nav ul {
+	display: inline;
+}
+
+
 
