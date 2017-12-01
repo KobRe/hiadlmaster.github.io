@@ -25,6 +25,7 @@ li li { font-size: 1em; }
 tr { font-size: 1.7em; }
 
 #rulesliste {
+	font-family: sans-serif;
 	border-width: thin;
 	border-style: solid;
 	padding-right: 1em;
@@ -35,16 +36,22 @@ tr { font-size: 1.7em; }
 }
 
 nav {
-	background-color: Aquamarine;
+	font-family: sans-serif;
 }
 
 nav li {
+	/* background-color: lightblue; */
+	
 	display: inline;
+	padding: 10px;
+	border: 
 }
 
 nav ul {
 	display: inline;
 }
 
-
+body {
+	font-family: sans-serif;
+}
 
